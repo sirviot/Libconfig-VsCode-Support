@@ -1,6 +1,6 @@
 # LibConfig README
 
-An extension which provides language support for C++ LibConfig files. 
+An extension which provides language support for C++ LibConfig files.
 
 See <https://github.com/hyperrealm/libconfig> for more details on libconfig specifications
 
